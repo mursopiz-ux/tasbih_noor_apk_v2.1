@@ -1,0 +1,8 @@
+{
+  "name": "TASBIH NOOR",
+  "description": "Premium Islamic Digital Tasbih and Daily Wird Companion. A Peaceful Digital Dhikr Experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
